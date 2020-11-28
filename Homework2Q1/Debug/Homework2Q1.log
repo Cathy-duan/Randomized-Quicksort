@@ -1,0 +1,4 @@
+﻿  Q1.cpp
+C:\Users\cathe\source\repos\Homework2Q1\Q1.cpp(48,21): warning C4101: 'endTime': unreferenced local variable
+C:\Users\cathe\source\repos\Homework2Q1\Q1.cpp(48,10): warning C4101: 'startTime': unreferenced local variable
+  Homework2Q1.vcxproj -> C:\Users\cathe\source\repos\Homework2Q1\Debug\Homework2Q1.exe
